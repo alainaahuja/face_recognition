@@ -80,30 +80,4 @@ title=canvas.create_text(200,200, text='The face matcher',fill='blue',font=('Hel
 
 #mandatory line
 window.mainloop()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-    
-    
-    
-
     
